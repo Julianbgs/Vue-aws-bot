@@ -1,0 +1,42 @@
+{
+  "name": "front-end",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.7.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.20",
+    "compass-mixins": "^0.12.10",
+    "elements-ui": "0.0.3",
+    "flag-icon-css": "^3.3.0",
+    "font-awesome": "^4.7.0",
+    "material-design-icons-iconfont": "^5.0.1",
+    "mdi": "^2.2.43",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.1.0",
+    "vue-data-tables": "^3.4.4",
+    "vue-template-compiler": "^2.5.21"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "description": "```\r npm install\r ```",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
