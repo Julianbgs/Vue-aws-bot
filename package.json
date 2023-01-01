@@ -11,7 +11,7 @@
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.7.0",
+    "@vue/cli-service": "^5.0.8",
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.20",
@@ -22,7 +22,7 @@
     "material-design-icons-iconfont": "^5.0.1",
     "mdi": "^2.2.43",
     "node-sass": "^4.9.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^13.2.0",
     "vue-data-tables": "^3.4.4",
     "vue-template-compiler": "^2.5.21"
   },
